@@ -200,4 +200,9 @@ The app's unique feature is its ability to merge products from two sources. This
 <img width="1315" height="630" alt="Screenshot Recipt" src="https://github.com/user-attachments/assets/48d2c205-b3e8-4a70-9a03-c98fd7447812" />
 
 -----
+## Demo video 
+
+https://www.loom.com/share/2b0eceb33a7d4be1a2994e9b1329c947
+
+-----
 ⭐ Star this repo if you found it helpful\! ⭐
